@@ -1,4 +1,5 @@
-# Find the square root of a number
+# DATE: 
+# EX.NO.05 Find the square root of a number
 
 ## AIM:
 To write a program to find the square root of a number.
@@ -31,7 +32,8 @@ print("Square root of the number:",newton_method(a))
 
 ## Output:
 
-![alt text](<Screenshot 2024-04-09 093317.png>)
+![Screenshot 2024-09-09 203646](https://github.com/user-attachments/assets/5d45f729-7838-4e4d-8ecc-4fa5b9fca501)
+
 
 
 ## Result:
